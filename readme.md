@@ -16,6 +16,8 @@ Features include:
 
 Menu > Plugins > Set File Type
 
+###todo
+
  - Add features
  - Identify the file extension when loaded
  - make use of storage to save the custom assignment of the grammar
